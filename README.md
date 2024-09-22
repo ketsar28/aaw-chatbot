@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 2. create config.json file in the root directory
-3. set your openai api key in config.json file :
+3. set your [openai api key](https://platform.openai.com/api-keys) in config.json file :
 ```json
 {
   "OPENAI_API_KEY": "OPENAI_API_KEY_VALUE"
